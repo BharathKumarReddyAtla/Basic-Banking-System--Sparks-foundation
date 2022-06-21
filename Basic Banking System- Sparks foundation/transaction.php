@@ -91,7 +91,7 @@
                     &copy; All Rights are Reserved.
                 </div>
                 <div class="col-6 text-white text-end">
-                    Created by <a href="https://github.com/Shubh-Official/" target="_BLANK" class="text-warning text-decoration-none">Shubh Patel</a>
+                    Created by <a href="https://github.com/bharath-Official/" target="_BLANK" class="text-warning text-decoration-none">Bharath Kumar Reddy</a>
                 </div>
             </div>
         </div>
